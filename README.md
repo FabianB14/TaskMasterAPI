@@ -56,10 +56,20 @@ https://8o88ocps78.execute-api.us-west-2.amazonaws.com/dev/tasks/48b4e468-1bb5-4
 
 # Contributors
 
-Kevin Couture
-Nicholas Paro
-Padmapriya Ganapathi
+Kevin Couture,
+Nicholas Paro,
+Padmapriya Ganapathi,
 Jack Kinne
+
+# Resources
+I use an AWS Lambda github to find out about APIProxyRequestEvent and APIProxyResponse.
+
+### Response: 
+https://github.com/aws/aws-lambda-java-libs/blob/master/aws-lambda-java-events/src/main/java/com/amazonaws/services/lambda/runtime/events/APIGatewayProxyResponseEvent.java
+
+### Request: 
+https://github.com/aws/aws-lambda-java-libs/blob/master/aws-lambda-java-events/src/main/java/com/amazonaws/services/lambda/runtime/events/APIGatewayProxyResponseEvent.java
+
 
 
 
